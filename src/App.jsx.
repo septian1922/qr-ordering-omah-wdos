@@ -1,0 +1,18 @@
+
+export default function App() {
+  return (
+    <div style={{
+      minHeight: "100vh",
+      display: "flex",
+      flexDirection: "column",
+      alignItems: "center",
+      justifyContent: "center",
+      padding: "24px",
+      textAlign: "center"
+    }}>
+      <h1>OMAH W-DOS</h1>
+      <h2>QR Ordering</h2>
+      <p>Selamat datang di sistem pemesanan Omah W-Dos.</p>
+    </div>
+  );
+}
